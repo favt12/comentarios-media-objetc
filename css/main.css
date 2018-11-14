@@ -120,8 +120,21 @@ body{
 
 }
 
+/***********************
+++++++++Boton+++++++++++
+***********************/
 
+.form_comentarios .btn{
+    background: #4b65d1;
+    font-family: 'Reboto', sans-serif;
+    color: #fff;
+    margin-bottom: 20px;
+    
+}
 
+.form_comentarios .btn:hover{
+    box-shadow: 0px 0px 0px 4px rgba(63, 62, 62, 0.151);
+}
 
 
 
